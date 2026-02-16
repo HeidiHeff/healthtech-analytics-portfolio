@@ -15,6 +15,14 @@ All datasets are synthetic or publicly available. No real patient data is used.
 
 ---
 
+## Background
+
+I previously worked extensively with Python for test scripting and lightweight application development within healthcare startup environments.  
+
+This current progression focuses on formalizing and modernizing those foundational skills within structured analytics, data engineering workflows, and reproducible data validation systems.
+
+---
+
 ## Portfolio Navigation
 
 | Project | Focus Area | Core Skills Demonstrated | Status |
