@@ -1,43 +1,106 @@
-# HealthTech Analytics Portfolio – Heidi Heffelfinger
+# HealthTech Analytics Portfolio  
+Heidi Heffelfinger
+
+---
 
 ## Overview
 
-This repository documents my progression from foundational Python and SQL skills to advanced healthcare analytics, data engineering awareness, and applied AI capabilities.
+This portfolio documents a structured progression into healthcare data analytics, with an emphasis on data integrity, reproducibility, statistical reasoning, and operational impact.
 
-The focus is healthcare data integrity, operational analytics, and scalable modern data systems.
+Projects are intentionally aligned to a tiered roadmap:
 
-All datasets are synthetic or publicly available unless otherwise noted.
+HealthTech Data Analyst → Analytics Engineer → AI-Savvy Healthcare Data Strategist
 
----
-
-## Current Focus
-
-Tier 1 – Core Analytics Modernization
-
-- Python fundamentals
-- SQL depth
-- Pandas data cleaning
-- Healthcare data validation
-- Foundational statistics
+All datasets are synthetic or publicly available. No real patient data is used.
 
 ---
 
-## Active Projects
+## Portfolio Navigation
+
+| Project | Focus Area | Core Skills Demonstrated | Status |
+|----------|------------|--------------------------|--------|
+| Synthetic Healthcare Claims Data Engineering | Data Quality & Cleaning | Python, Pandas, Validation Logic, QA Metrics | Active |
+| Hospital Readmission SQL Analysis | SQL & KPI Analysis | Joins, CTEs, Window Functions | Planned |
+| Patient No-Show Prediction Model | Statistical Modeling | Logistic Regression, Interpretation | Planned |
+| Hospital Operations Dashboard | Business Intelligence | Power BI, KPI Framing | Planned |
+| Telehealth Booking Experimentation | A/B Testing | Statistical Testing, Funnel Metrics | Planned |
+
+Additional folders reflect future tiers, including Spark, streaming systems, and applied AI projects as capabilities expand.
+
+---
+
+## Current Focus (Tier 1 – Core Analytics Modernization)
+
+- Python fundamentals and modular design  
+- SQL depth in healthcare-style datasets  
+- Data cleaning and transformation with Pandas  
+- Clinical code validation logic  
+- Foundational statistical modeling  
+- Business-oriented interpretation  
+
+---
+
+## Featured Project
 
 ### Synthetic Healthcare Claims Data Engineering
 
-A controlled 20,000-row synthetic claims dataset with injected data quality issues and a reproducible cleaning pipeline.
+A 20,000-row synthetic claims dataset with controlled data corruption.
 
 Includes:
 
-- Data quality report
-- Cleaning workflow
-- Accuracy comparison against ground truth
-- Summary metrics output
+- Raw dataset with injected integrity issues  
+- Reproducible cleaning pipeline  
+- Data quality report  
+- Accuracy comparison against ground truth  
+- Summary metrics for downstream analytics  
+
+This project demonstrates practical data validation, structured cleaning logic, and measurable recovery accuracy.
 
 Project folder:
-
 `project_1_synthetic_claims/`
+
+---
+
+## Technical Stack
+
+**Programming**
+- Python  
+- SQL  
+
+**Data Analysis**
+- Pandas  
+- NumPy  
+- Statistical Modeling  
+
+**Business Intelligence**
+- Power BI  
+- Excel  
+
+**Data Engineering (Developing)**
+- Spark  
+- AWS  
+- Kafka  
+
+**AI & Applied ML (Planned)**
+- Logistic Regression  
+- Experimentation Design  
+- LLM Applications  
+
+---
+
+## Professional Approach
+
+Healthcare analytics requires disciplined handling of complex, regulated data environments.
+
+This portfolio emphasizes:
+
+- Structured validation before transformation  
+- Explicit correction logic  
+- Transparent documentation  
+- Reproducible results  
+- Clear translation of findings into operational impact  
+
+The goal is not just technical fluency, but dependable analytics execution.
 
 ---
 
@@ -45,53 +108,16 @@ Project folder:
 
 Tier 1 – Core Analytics  
 Tier 2 – Business Impact & Experimentation  
-Tier 3 – Big Data Awareness  
-Tier 4 – Streaming Systems Literacy  
+Tier 3 – Distributed Systems Literacy  
+Tier 4 – Streaming Architecture Awareness  
 Tier 5 – Data Architecture Strategy  
-Tier 6 – Applied AI in Healthcare Contexts  
+Tier 6 – Applied AI Integration  
 
-This portfolio grows tier by tier. Not all folders are populated at once.
-
----
-
-## Technical Stack (In Progress)
-
-Programming:
-- Python
-- SQL
-
-Data Analysis:
-- Pandas
-- NumPy
-
-Business Intelligence:
-- Power BI
-- Excel
-
-Data Engineering Literacy:
-- Spark (planned)
-- AWS (planned)
-- Kafka (planned)
-
-AI Literacy:
-- LLM application (planned)
-
----
-
-## Professional Philosophy
-
-Healthcare data requires:
-
-- Rigorous validation
-- Reproducibility
-- Logical consistency
-- Clear interpretation
-
-This portfolio emphasizes disciplined data cleaning, structured design, and business-oriented communication.
+Projects are added as each tier is completed.
 
 ---
 
 ## Contact
 
-LinkedIn:https://www.linkedin.com/in/heidiheff/
+LinkedIn: https://www.linkedin.com/in/heidiheff/
 Email: heffelfinger.h.a@gmail.com
