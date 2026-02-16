@@ -93,5 +93,5 @@ This portfolio emphasizes disciplined data cleaning, structured design, and busi
 
 ## Contact
 
-LinkedIn: (insert link)  
-Email: (insert professional email)
+LinkedIn:https://www.linkedin.com/in/heidiheff/
+Email: heffelfinger.h.a@gmail.com
