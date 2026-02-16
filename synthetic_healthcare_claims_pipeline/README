@@ -1,0 +1,85 @@
+# Synthetic Healthcare Claims Data Engineering
+
+## Overview
+
+This project builds a controlled 20,000-row synthetic healthcare claims dataset and a reproducible cleaning pipeline designed to simulate real-world healthcare data integrity challenges.
+
+The workflow includes intentional corruption injection, structured validation logic, reproducible cleaning transformations, and measurable recovery accuracy against a known ground truth dataset.
+
+All data is synthetic.
+
+---
+
+## Objectives
+
+- Generate a structured synthetic claims dataset (`clean_claims.csv`)
+- Inject controlled data quality issues (`raw_claims.csv`)
+- Detect and quantify all corruption types
+- Implement reproducible cleaning logic (`cleaned_claims.csv`)
+- Compare cleaned output to ground truth
+- Produce accuracy and recovery metrics
+
+---
+
+## Injected Data Quality Issues
+
+The raw dataset includes controlled examples of:
+
+- Missing values
+- Duplicate records
+- Type and format errors
+- Logical inconsistencies (e.g., invalid date relationships)
+- Domain violations (e.g., invalid codes or values)
+- Statistical outliers
+
+---
+
+## Pipeline Structure
+
+### Dataset Generation
+Creates the clean ground truth dataset and injects defined corruption rates.
+
+### Data Quality Reporting
+Generates diagnostics identifying counts and distributions of corruption types.
+
+### Cleaning Pipeline
+Applies structured transformation logic including:
+- Standardization
+- Validation enforcement
+- Safe type conversion
+- Duplicate resolution
+- Logical rule corrections
+
+### Accuracy Comparison
+Compares cleaned results against ground truth and quantifies:
+- Recovery percentage by error category
+- Overall dataset restoration rate
+
+---
+
+## Deliverables
+
+- `clean_claims.csv`
+- `raw_claims.csv`
+- `data_quality_report.csv`
+- `cleaned_claims.csv`
+- `accuracy_report.csv`
+- `summary_metrics.csv`
+
+---
+
+## Skills Demonstrated
+
+- Python data engineering workflow design
+- Structured validation and correction logic
+- Data integrity reporting
+- QA-style measurable recovery analysis
+- Reproducible analytics execution
+
+---
+
+## Why This Matters
+
+Healthcare analytics depends on reliable upstream data quality.  
+
+This project emphasizes disciplined validation before transformation, measurable correction accuracy, and conservative correction logic designed for regulated data environments.
